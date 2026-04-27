@@ -1,10 +1,13 @@
 
-## Colon vs Cloaca Microbiome in Hawksbill Sea Turtles
-
-Authors: Maximilian M.R. Polyak1, 2, 3, 6+, Lara Kalisch2+, Matteo Monti2, Francisca C. García2, Chakkiath Paul Antony2, Tristan Neto3, Mariana Fragoso3, 6, Hasnaulhusna3, Abdullah Alwali1 , Stephanie Köhnk3, Enas Mohamed Riyaz5, Isha Afeef4, Claire Petros6, Martin Stelfox3, Raquel Peixoto2
-
-Paper: Distinct colonic and cloacal microbiomes in hawksbill sea turtles (Eretmochelys imbricata) from the Northwest Indian Ocean 
+## Paper: Distinct colonic and cloacal microbiomes in hawksbill sea turtles (Eretmochelys imbricata) from the Northwest Indian Ocean 
  (under review)
+
+**Code author:** Lara Kalisch  
+
+**Manuscript authors:**  
+Maximilian M.R. Polyak* and Lara Kalisch*, Matteo Monti, Francisca C. García, Chakkiath Paul Antony, Tristan Neto, Mariana Fragoso, Hasnaulhusna, Abdullah Alwali, Stephanie Köhnk, Enas Mohamed Riyaz, Isha Afeef, Claire Petros, Martin Stelfox, Raquel Peixoto  
+
+\* These authors contributed equally.
 
 ⸻
 
